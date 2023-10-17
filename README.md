@@ -1,11 +1,6 @@
 # 👋 hi, im dark
 
-learning rust, knows some c++
-
-i will not friend you if we havent talked :)
-foss <3
-
-any pronouns
+he/him
 
 links
-[website](http://darkness.0x.no), [revolt server](https://rvlt.gg/eF3zC0Tp), [contact me](mailto:darkmmode@proton.me)
+[website](http://darks-cafe.pages.dev), [revolt server](https://rvlt.gg/eF3zC0Tp), [contact me](mailto:darksemail@duck.com)
